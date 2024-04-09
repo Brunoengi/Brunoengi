@@ -4,7 +4,7 @@ I'm a Civil Enginner and Software Delevoper, i work to create computacional engi
 
 I am willing to collaborate with open source projects, private projects, or projects that generate patents, as long as they are applied to civil engineering.
 
-## Contact me
+### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno--teixeira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.de_bruno/)
