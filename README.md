@@ -4,6 +4,10 @@ I'm a Civil Enginner and Software Developer, working on create computacional eng
 
 I am open to collaborate with open source projects, private projects, or projects that generate patents, as long as they are applied to civil engineering.
 
+### Stack Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoengi)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno--teixeira/)
