@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a Civil Enginner and Software Developer, working on create computacional enginner solutions in agreement current standarts (NBR - Norma Brasileira/Brazilian Standart), applied to civil engineering. My field of research is numeric methods, finite elements, finite volums and finite differences. I developed public and private repositories applied to various areas of structural engineering, such as reinforced concrete, prestressed concrete, shallow and deep foundations, geotechnical testing. I am currently a scholarship holder in the master's degree on computational modeling with a research line in computational mechanics. On my undergraduate and master's degrees, I studied civil engineering and programming all together.
+I'm a Civil Engineer and Software Developer focused on creating computational engineering solutions aligned with current Brazilian standards (NBR). My field of research includes numerical methods, finite elements, finite volumes, and finite differences.
+
+I have developed both public and private repositories applied to several areas of structural engineering, such as reinforced concrete, prestressed concrete, shallow and deep foundations, and geotechnical testing.
+
+I recently completed my Master's degree in Computational Modeling, with a research focus on computational mechanics. Throughout both my undergraduate studies and my master's program, I studied civil engineering and programming side by side.
 
 I am open to collaborate with open source projects, private projects, or projects that generate patents.
 
