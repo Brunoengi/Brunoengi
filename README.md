@@ -8,9 +8,6 @@ I recently completed my Master's degree in Computational Modeling, with a resear
 
 I am open to collaborate with open source projects, private projects, or projects that generate patents.
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoengi&layout=compact&langs_count=16&theme=dark"/>
-
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno--teixeira/)
